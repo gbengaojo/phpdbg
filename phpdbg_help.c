@@ -518,7 +518,7 @@ phpdbg_help_text_t phpdbg_help_text[] = {
 
 "    $P break 200" CR
 "    $P b 200" CR
-"    Break execution at line 200 of the currently PHP script file" CR CR
+"    Break execution at line 200 of the currently executing PHP script file" CR CR
 
 "    $P break \\\\mynamespace\\\\my_function" CR
 "    $P b \\\\mynamespace\\\\my_function" CR
